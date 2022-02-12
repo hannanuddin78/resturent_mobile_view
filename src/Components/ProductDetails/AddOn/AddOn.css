@@ -1,0 +1,33 @@
+.addOnContainer {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 3%;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  text-align: start;
+  padding: 0.5em;
+}
+
+.decBtn {
+  padding: 0px 7px;
+  border-radius: 50%;
+  border: 1px solid black;
+  font-size: 15px;
+  font-weight: 700;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.incBtn{
+  padding: 0px 5px;
+  border-radius: 50%;
+  border: 1px solid black;
+  font-size: 15px;
+  font-weight: 700;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.disBlock{
+  display: none;
+}

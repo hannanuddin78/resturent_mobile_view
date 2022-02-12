@@ -1,0 +1,48 @@
+.navigationBarTop {
+  list-style: none;
+  overflow-x: scroll;
+  position: sticky;
+  background-color: white;
+  border-radius: 15px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+}
+.navigationBar {
+  list-style: none;
+  overflow-x: scroll;
+  position: sticky;
+  background-color: black;
+  border-radius: 15px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+.categoryBtn {
+  border-radius: 10px;
+  margin: 0.1rem;
+  background-color: black;
+  color: white;
+}
+.categoryBtn:hover {
+  background-color: white;
+  color: black;
+}
+.categoryBtnTop {
+  border-radius: 10px;
+  margin: 0.1rem;
+  background-color: white;
+  color: black;
+}
+.categoryBtnTop:hover {
+  background-color: black;
+  color: white;
+}
+.selected {
+  background-color: black;
+  color: white;
+}

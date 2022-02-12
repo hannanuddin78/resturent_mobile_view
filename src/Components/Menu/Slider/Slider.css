@@ -1,0 +1,17 @@
+.sliderSection {
+  margin-top: 1.7rem;
+}
+.hotDealTitile {
+  font-family: Lato;
+  margin-left: 3%;
+  margin-top: 1.3rem;
+  margin-bottom: 1.18rem;
+  font-weight: 500;
+}
+.sliderSectionImg {
+  height: 12.938rem;
+  border-radius: 10px;
+}
+.menuDetails {
+  margin-top: 0.625rem;
+}

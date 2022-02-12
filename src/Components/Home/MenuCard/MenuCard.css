@@ -1,0 +1,77 @@
+/* card with image */
+
+.cardBody {
+  margin: 0 0.1rem 0.1rem 0.1rem;
+  border-radius: 10px;
+  padding: 0.1rem;
+  width: 100%;
+  cursor: pointer;
+}
+
+.cardImage {
+  width: 13.813rem;
+  height: 8.625rem;
+  border-radius: 10px;
+  margin-left: 0.7rem;
+}
+.productDetails {
+  width: 90%;
+  text-align: start;
+  margin-top: 15px;
+  margin-left: 7px;
+}
+.productName {
+  font-family: Lato;
+  font-weight: 400;
+  margin-bottom: 0.3rem;
+  font-size: 1.4rem;
+  font-family: "Bebas Neue";
+}
+.productDescription {
+  font-family: Roboto;
+  font-weight: 300;
+  color: #777777;
+  margin: 0;
+  font-size: 1rem;
+}
+.productPrice {
+  font-family: Roboto;
+  font-weight: 500;
+  /* color: #757575; */
+  color: red;
+  font-size: 1.4rem;
+  font-family: "Bebas Neue";
+  margin-left: 3rem;
+}
+
+/* 
+withoud image product card */
+
+.cardBodyWithoutImage {
+  margin: 1rem 0.5rem 1rem 0.7rem;
+  border: 2px solid rgb(213, 213, 213);
+  border-radius: 10px;
+  height: 5rem;
+  padding: 1%;
+}
+.productDetailsOnlyText {
+  text-align: start;
+  margin-left: 0.5rem;
+  width: 75%;
+}
+.priceSection {
+  font-family: Roboto;
+  font-weight: 500;
+  /* color: #757575; */
+  color: red;
+  font-size: 1.4rem;
+  font-family: "Bebas Neue";
+  width: 25%;
+  margin-top: 5%;
+}
+.categoryHeader {
+  font-family: "Righteous";
+  text-align: start;
+  margin-left: 0.8rem;
+  margin-top: 2rem;
+}

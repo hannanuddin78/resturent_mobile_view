@@ -1,0 +1,26 @@
+.bottom-spacer {
+  height: 30vh;
+}
+
+/* .sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+} */
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+/* color: #314d4a; */
+
+.header_link {
+  padding: 0.938rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 15px;
+  border: none;
+}

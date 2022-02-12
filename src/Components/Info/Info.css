@@ -1,0 +1,79 @@
+.iconsArea {
+  background-color: black;
+  width: 37px;
+  height: 37px;
+  text-align: center;
+  border-radius: 50%;
+  margin-left: 1.25rem;
+}
+.icon {
+  margin-top: 11px;
+}
+.iconShop {
+  margin-top: 3.75rem;
+}
+.iconPhone {
+  margin-top: 1.563px;
+}
+.iconHistory {
+  margin-top: 1.563px;
+}
+.iconL {
+  margin-top: 1.563px;
+}
+.textAreaResName {
+  width: 197px;
+  height: 16px;
+  font-family: "Lato", sans-serif;
+  font-size: 13px;
+  line-height: 15.6px;
+  margin-left: 1.25rem;
+  margin-top: 3.75rem;
+}
+.textAreaPhone {
+  width: 103px;
+  height: 16px;
+  font-family: "Lato", sans-serif;
+  font-size: 13px;
+  line-height: 16px;
+  margin-left: 1.25rem;
+  margin-top: 2.875;
+}
+.textAreaOpen {
+  width: 223px;
+  height: 16px;
+  font-family: "Lato", sans-serif;
+  font-size: 13px;
+  line-height: 15.6px;
+  margin-left: 1.25rem;
+  margin-top: 2.875;
+}
+.textAreaLocation {
+  width: 263px;
+  height: 48px;
+  font-family: "Lato", sans-serif;
+  font-size: 13px;
+  line-height: 15.6px;
+  margin-left: 1.25rem;
+  margin-top: 0.2rem;
+}
+.mapsDiv {
+  height: 10.875rem;
+  width: 90%;
+  background-color: #f9f9f9;
+  border: 2px solid rgb(241, 227, 227);
+  border-radius: 5px;
+  position: relative;
+  left: 5%;
+}
+.footerLinks {
+  margin-top: 28px;
+  margin-left: 2.5rem;
+}
+.footerLinks > a > img {
+  width: 27px;
+  height: 27px;
+  margin-right: 40px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
